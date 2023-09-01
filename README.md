@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nasir Bashir
 - 👀 I’m interested in MERN stack developement
-- 🌱 I’m currently learning React an Node JS 
+- 🌱 I’m currently learning React and Node JS 
 - 💞️ I’m looking to collaborate on your Projects
 - 📫 Reah me through my email
 - nasirbashir2016@gmail.com
